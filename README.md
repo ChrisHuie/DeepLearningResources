@@ -13,6 +13,7 @@ A computer vision based model that infers actions and future events of shapes co
 [CS231n: Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/)  
 These notes that accompany this Stanford CS class  
 
+[IMPALA: Scalable Distributed Deep-RL w/ Importance Weighted Actor-Learner Architecture](https://arxiv.org/pdf/1802.01561.pdf)  
 
 
 
