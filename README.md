@@ -39,7 +39,6 @@ A computer vision competition on training traffic based models to take more inte
 
 
 
-
 ### Interpretibility / Visulaization
 [Lucid](https://github.com/tensorflow/lucid)   
 CNN image visulizations of model layers and nodes on image classification   
@@ -61,5 +60,21 @@ Fall 2019 Video Lectures on YouTube
 Official TensorFlow Models  
 
 [Tensor2Tensor](https://github.com/tensorflow/tensor2tensor)  
-Library of Varios Deep Learning Models and Data Sets  
+Library of Various Deep Learning Models and Data Sets  
 
+[Trax](https://github.com/google/trax)  
+Sequence and Reinforcement Learning models
+
+[Open Spiel](https://github.com/deepmind/open_spiel)
+Enivronments and Algorithms for Reinforcement Learning  
+
+
+### Frameworks / Assitive Libraries
+[Sonnet](https://github.com/deepmind/sonnet)  
+TensorFlow-Based Neural Network Library  
+
+[Jax](https://github.com/google/jax)  
+Autogrand and Accelerated Linear Algebra for Automatic differentiation  
+
+[DM-Haiku](https://github.com/deepmind/dm-haiku)  
+Neural Network Library Bassed on Jax  
