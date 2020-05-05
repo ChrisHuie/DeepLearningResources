@@ -8,7 +8,10 @@ State-of-art real-time image identification model
 Generative model that creates highly translated images in a learned illustrative style  
 
 [CLEVRER: Collision Events for Video Representation and Reasoning](http://clevrer.csail.mit.edu/)  
-A computer vision based model that infers actions and future events of shapes colliding
+A computer vision based model that infers actions and future events of shapes colliding  
+
+[CS231n: Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/)  
+These notes that accompany this Stanford CS class  
 
 
 
