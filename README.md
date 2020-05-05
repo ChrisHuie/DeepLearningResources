@@ -21,8 +21,8 @@ Blog post on model details by the winner of Unity's AI Obstacle Challenge
 [A Survey of Deep Reinforcement Learning in Video Games](https://arxiv.org/pdf/1912.10944v2.pdf)  
 Deep Learning history on key neural network models and progressions using video games as benchmarks/training ground  
 
-
-
+[Model-Based Reinforcement Learning for Atari](https://sites.google.com/view/modelbasedrlatari/home)
+Simulated Policy Learning (SimPle) is a complete model-based deep RL algorithm
  
 
 
@@ -52,4 +52,14 @@ CNN image visulizations of model layers and nodes on image classification
 
 [Berkley CS285 Deep Learning](https://www.youtube.com/playlist?list=PLkFD6_40KJIwhWJpGazJ9VSj9CFMkb79A)
 Fall 2019 Video Lectures on YouTube
+
+
+
+
+### Algorithms
+[TensorFlow Model Garden](https://github.com/tensorflow/models/tree/master/official)  
+Official TensorFlow Models  
+
+[Tensor2Tensor](https://github.com/tensorflow/tensor2tensor)  
+Library of Varios Deep Learning Models and Data Sets  
 
